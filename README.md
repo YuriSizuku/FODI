@@ -2,6 +2,8 @@
 
 Fast OneDrive Index / FODI，无需服务器的 OneDrive 快速列表程序
 
+Some modification for other use， such as picture bed without query. 
+
 #### 预览
 
 - [DEMO](https://logi.im/fodi.html)
